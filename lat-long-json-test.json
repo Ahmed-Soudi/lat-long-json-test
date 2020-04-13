@@ -1,9 +1,15 @@
 [{
   "name": "Al Taawon",
-  "latitude": 30.061300,
-  "longitude": 31.211381
+  "description": "Al Taawon new task",
+  "positionCoordinates": {
+	  "latitude": 30.061300,
+	  "longitude": 31.211381
+   }
 },{
   "name": "التعاون",
-  "latitude": 30.059427,
-  "longitude": 31.244349
+  "description": "Al Taawon other task",
+  "positionCoordinates": {
+	  "latitude": 30.059427,
+	  "longitude": 31.244349
+  }
 }]
